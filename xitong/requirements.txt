@@ -1,0 +1,7 @@
+PyQt5
+Django
+mysqlclient
+pyzbar
+requests
+Pillow
+pytest

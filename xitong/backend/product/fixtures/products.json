@@ -1,0 +1,22 @@
+[
+  {"model": "product.product", "pk": 1, "fields": {"name": "可口可乐", "barcode": "100001", "price": "3.80"}},
+  {"model": "product.product", "pk": 2, "fields": {"name": "百事可乐", "barcode": "100002", "price": "3.60"}},
+  {"model": "product.product", "pk": 3, "fields": {"name": "农夫山泉", "barcode": "100003", "price": "2.20"}},
+  {"model": "product.product", "pk": 4, "fields": {"name": "康师傅绿茶", "barcode": "100004", "price": "3.10"}},
+  {"model": "product.product", "pk": 5, "fields": {"name": "统一冰红茶", "barcode": "100005", "price": "2.90"}},
+  {"model": "product.product", "pk": 6, "fields": {"name": "乐事薯片", "barcode": "100006", "price": "5.80"}},
+  {"model": "product.product", "pk": 7, "fields": {"name": "奥利奥", "barcode": "100007", "price": "4.20"}},
+  {"model": "product.product", "pk": 8, "fields": {"name": "士力架", "barcode": "100008", "price": "3.90"}},
+  {"model": "product.product", "pk": 9, "fields": {"name": "伊利纯牛奶", "barcode": "100009", "price": "6.50"}},
+  {"model": "product.product", "pk": 10, "fields": {"name": "蒙牛酸奶", "barcode": "100010", "price": "5.10"}},
+  {"model": "product.product", "pk": 11, "fields": {"name": "康师傅方便面", "barcode": "100011", "price": "3.20"}},
+  {"model": "product.product", "pk": 12, "fields": {"name": "今麦郎方便面", "barcode": "100012", "price": "2.80"}},
+  {"model": "product.product", "pk": 13, "fields": {"name": "德芙巧克力", "barcode": "100013", "price": "7.90"}},
+  {"model": "product.product", "pk": 14, "fields": {"name": "脉动", "barcode": "100014", "price": "4.30"}},
+  {"model": "product.product", "pk": 15, "fields": {"name": "红牛", "barcode": "100015", "price": "6.80"}},
+  {"model": "product.product", "pk": 16, "fields": {"name": "旺仔牛奶", "barcode": "100016", "price": "4.10"}},
+  {"model": "product.product", "pk": 17, "fields": {"name": "三只松鼠坚果", "barcode": "100017", "price": "13.50"}},
+  {"model": "product.product", "pk": 18, "fields": {"name": "卫龙辣条", "barcode": "100018", "price": "2.60"}},
+  {"model": "product.product", "pk": 19, "fields": {"name": "好丽友派", "barcode": "100019", "price": "5.70"}},
+  {"model": "product.product", "pk": 20, "fields": {"name": "雀巢咖啡", "barcode": "100020", "price": "8.20"}}
+]
